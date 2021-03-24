@@ -327,10 +327,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .btn-about {
-  font-family: "Raleway", sans-serif;
-  text-transform: uppercase;
+  font-family: "Cormorant";
+  text-transform: lowercase;
   font-weight: 600;
-  font-size: 12px;
+  font-size: 18px;
   letter-spacing: 1px;
   display: inline-block;
   padding: 12px 40px;
@@ -342,7 +342,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .btn-about:hover {
-  background: #3dc8b7;
+  background: #0cb7c4; 
 }
 
 @media (min-width: 1024px) {
@@ -1148,6 +1148,7 @@ section {
   color: #222222;
   box-shadow: 0px 0px 25px 0 rgba(34, 40, 43, 0.15);
   font-size: 14px;
+  font-family: "Cormorant";
   text-align: center;
 }
 
